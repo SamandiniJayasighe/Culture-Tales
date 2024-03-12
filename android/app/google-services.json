@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845873944405",
+    "project_id": "culturetalesstorydatadase",
+    "storage_bucket": "culturetalesstorydatadase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845873944405:android:ebf3c30ec680a566d641dc",
+        "android_client_info": {
+          "package_name": "com.example.culture_tales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cSAilB_0MAZv84JT434LMA5Xab0cf-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

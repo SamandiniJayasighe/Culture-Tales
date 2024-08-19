@@ -1,16 +1,23 @@
-# culture_tales
+# Culture Tales
 
-A new Flutter project.
+Culture Tales is a mobile application developed to promote ethnic cohesion and social harmony. It is a storytelling app for children, offering stories in Sinhala, English, and Tamil languages with both text and audio playback features.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Multi-language Support**: Stories available in Sinhala, English, and Tamil.
+- **Text and Audio Playback**: Users can read stories or listen to audio narration.
+- **Promotes Social Harmony**: Encourages ethnic cohesion through multicultural storytelling.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend**: Flutter
+- **Backend**: Firebase Cloud
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation and Setup
+
+To set up and run the Culture Tales application locally, follow these steps:
+
+1. Install the necessary dependencies:
+
+   ```bash
+   flutter pub get
